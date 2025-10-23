@@ -1,0 +1,7 @@
+{
+    "name": "h4x0r42/compex",
+    "description": "This is indeed a dependency",
+    "require": {
+        "php": ">=8.2",
+    }
+}
